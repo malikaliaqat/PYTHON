@@ -1,4 +1,5 @@
 # calculator python
+
 operator=input("(+,-,*,/)")
 a=float(input("enter the first number"))
 b=float(input("enter the first number"))
@@ -13,7 +14,8 @@ else:
 
 
 
-# ************************************************calculator*******************************************
+# *********calculator*************
+
 num1 = float(input("Enter first number: "))
 num2 = float(input("enter second number:"))
 print(
@@ -32,4 +34,5 @@ elif operator == "4":
     else:
         print("Error: Division by zero is not allowed.")
 else:
+
     print("invalid numeber")
