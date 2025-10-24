@@ -1,4 +1,4 @@
-# # 1: simple chatboat 
+  *******************1: simple chatboat *******************************
 # import random
 # Chat = ["hi","hello","how are you","i am good", "hey,What's up","Take care"]
 # print("Random Chat" )
@@ -6,7 +6,7 @@
 #   input = input("hey i am chat_board Enter something...! ")
 # print(random.choice(Chat))
 
-# # 2: Simple chatbot using random responses
+******************* 2: Simple chatbot using random responses**************
 # import random
 # # Define a list of chat responses
 # chat_responses = [
@@ -24,7 +24,7 @@
 # # Print a random chat response
 # print(random.choice(chat_responses))
 
-# # 3: Simple chatbot using if and else
+************************883: Simple chatbot using if and else****************************
 
 # print("Chatbot: Hi! I'm a simple chatbot. Type 'bye' to end the conversation.")
 # while True:
@@ -41,7 +41,7 @@
 #     else:
 #         print("Chatbot: I'm not sure how to respond to that.")
 
-#  Again simple chatboat
+***************************** Again simple chatboat***************************
 # import random
 
 # words = ["hello", "malika", "dua"]
@@ -59,7 +59,7 @@
 #     else:
 #         print(f"Nope, I was thinking of '{random_choice}'. Try again!")
 
-# 4: Simple chatbot with a guessing game
+*****************************************4: Simple chatbot with a guessing game*******************************
 
 # import random
 # print("Welcome to the Simple Chatbot Guessing Game!")
@@ -75,7 +75,7 @@
 #     else:
 #         print(f"Nope, I was thinking of '{random_choice}'. Try again!")
 
-
+**************************************chatboat**************************************
 
 import random 
 chat = [ " hello", " hi", " how are you", " i am good", " hey, what's up", " take care"]
@@ -92,4 +92,5 @@ else:
     print(f"Nope, I was thinking of '{choice}'. Try again!")
   
 # print(random.choice(chat))
+
 
